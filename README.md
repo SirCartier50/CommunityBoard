@@ -36,7 +36,7 @@ GIF created with ...
 
 ## Notes
 
-I had an issue with display the images which I didn't understand how. Also had an issue with overlapping text because it was too long and fixed it by adding word-wrap and overflow-wrap to the css for h5 and gh6.
+I had an issue with display the images which was because I wasn't importing static images so I imported them and added some css to give them a fixed height and width that fit inside the cards. Also had an issue with overlapping text because it was too long and fixed it by adding word-wrap and overflow-wrap to the css for h5 and gh6.
 
 ## License
 
