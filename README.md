@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="edBtdWf"><a href="https://imgur.com/edBtdWf">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='https://i.imgur.com/edBtdWf.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ...  
 [Kap](https://getkap.co/) for macOS
