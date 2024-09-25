@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<a href='https://imgur.com/edBtdWf'/>
+<a href='https://imgur.com/edBtdWf'>here</a>
 
 GIF created with ...  
 [Kap](https://getkap.co/) for macOS
